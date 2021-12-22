@@ -1,2 +1,8 @@
 This is flipcart project.
+<<<<<<< HEAD
 Modified..
+=======
+Second time modified..
+>>>>>>> 31d73f3e7ad69fa40eb1729ceb1e859d0bcbac53
+
+file updated on laptop.
